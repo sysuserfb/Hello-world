@@ -16,12 +16,11 @@ The file is writen in 2016/4/23.
 - Exercise 6.8
 - 1,0等概，...
 
-```
 ####Lab Task
 - Lab report: Lab 03
-```
+
 ###数字信号处理
-```
+
 ####Writing Task
 - 6.6
 - 6.7
@@ -33,22 +32,22 @@ The file is writen in 2016/4/23.
 
 ####Lab Task
 - Lab report: Lab 07
-```
+
 
 ###数值分析
-```
+
 ####Writing Task
 - Page 198, Exercise 1
 
 ####Coding Task
 - Page 199, Computer Problems 3
-```
+
 
 ###操作系统
 ####Lab Task
-```
+
 - Lab report: Lab 02
-```
+
 
 - preview Lab 03
 
@@ -57,7 +56,7 @@ The file is writen in 2016/4/23.
 - Lab report: Disassembling & problems written in paper
 
 ###数字图像处理
-```
+
 ####Lab Task
 - Lab report: Lab 06
-```
+
