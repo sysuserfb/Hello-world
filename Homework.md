@@ -4,7 +4,7 @@
 Notes:
 Now is the 9-th week.
 Author: LiuFabin, 14353196
-The file is writen in 2016/4/23.
+The file is writen on 2016/4/23.
 ```
 
 ## Week 9
@@ -82,10 +82,10 @@ The file is writen in 2016/4/23.
 - 6.5, 6.38, 6.79
 
 ####Coding Task
-- M6.3(d), M6.4 (only for M6.3(d))
+>- M6.3(d), M6.4 (only for M6.3(d))
 
 ####Lab Task
-- Lab report: Lab 08 PID
+>- Lab report: Lab 08 PID
 
 ###操作系统
 `DDL: 2016/5/9 (Monday)?`
@@ -125,7 +125,10 @@ The file is writen in 2016/4/23.
 - M7.5
 
 ####Lab Task
-- Lab report: Lab 09
+- Lab report: Lab 09 Digital Imagine Process
+
+####Project Task
+- Project report: Mel filter of sound
 
 ###操作系统
 `DDL: 2016/5/16 (Monday)`
@@ -140,7 +143,7 @@ The file is writen in 2016/4/23.
 ###数字图像处理
 `DDL: 2016/5/11 (Wednsday night)`
 ####Lab Task
-- Lab report: Lab 08 
+- Lab report: Lab 08 Digital water marked
 
 ###计算机组成原理
 `DDL: 2016/5/11 (Wednsday)`
