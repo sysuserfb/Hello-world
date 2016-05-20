@@ -149,3 +149,99 @@ The file is writen on 2016/4/23.
 `DDL: 2016/5/11 (Wednsday)`
 ####Coding Task
 - Lab report: analysis disassemble file
+
+##Week 12
+
+###数值分析
+`DDL: 23:59:59, Mar 17th, 2016`
+### Writing assignment:
+>- Page 252, Exercise 1
+
+### Coding assignment:
+>- Page 254, Computer Problems 1
+
+###数字信号处理
+`DDL: 20 May, 2016`
+####Writing Task
+>- 7.45, 7.60, 7.62
+
+####Coding Task
+>- M7.7, M7.11, M7.12
+
+####Lab Task
+>- Lab report: Lab 10 highpass filter
+
+####Project Task
+- Project report: Mel filter of sound
+
+###操作系统
+`DDL: 2016/5/16 (Monday)`
+####Coding Task
+- Lab report: lab04 mlfqs
+
+###通信原理
+####Lab Task
+`DDL: 2016/5/17 (Tuesday night)`
+>- Lab report: Lab06 PAM PDM PPM
+
+###数字图像处理
+`DDL: 2016/5/18 (Wednsday night)`
+####Lab Task
+>- Lab report: Lab 09 color segmentation
+
+###计算机组成原理
+`DDL: 2016/5/18 (Wednsday)`
+####Coding Task
+>- Lab report: complex operation
+
+###HTLM公选
+- project
+
+###English
+- pre
+- essay*3
+- group task
+
+##Week 13
+
+###数值分析
+`DDL: 23:59:59, Mar 17th, 2016`
+### Writing assignment:
+- Page 263, Exercise 1
+
+### Coding assignment:
+- Page 264, Computer Problems 1
+
+###数字信号处理
+`DDL: 27 May, 2016`
+####Writing Task
+- 9.1(a), 9.2(a), 9.11(a)
+
+####Coding Task
+- M9.2, M9.6, M9.9
+
+####Project Task
+- Project report: Mel filter of sound
+
+###操作系统
+`DDL: 2016/5/16 (Monday)`
+####Coding Task
+- Lab report: lab04 mlfqs
+
+###通信原理
+####Lab Task
+`DDL: 2016/5/17 (Tuesday night)`
+- Lab report: Lab07 digital base signal
+
+###数字图像处理
+`DDL: 2016/5/18 (Wednsday night)`
+####Lab Task
+- Lab report: Lab 10 Harris vertex detection
+
+###HTLM公选
+- project
+
+###English
+- pre
+- essay*3
+- group task
